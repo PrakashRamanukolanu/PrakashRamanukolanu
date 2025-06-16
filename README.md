@@ -4,20 +4,35 @@
   
 
 <h1 align="center">Hi 👋, I'm Prakash Ramanukolanu</h1>
-<h3 align="center">I am a Cloud Engineer from India with a keen interest in cloud computing and DevOps technologies. I am proficient in cloud platforms such as AWS and Azure, with foundational knowledge in deploying, managing, and optimizing cloud infrastructure.</h3>
+<h3 align="center">AWS Certified DevOps Engineer | Passionate about Infrastructure Automation, Cloud Solutions & CI/CD Pipelines</h3>
+
+---
+
+🌐 I'm a Cloud Engineer from India with a passion for DevOps, cloud automation, and open-source technology.  
+☁️ Proficient in **AWS, Jenkins, Docker, GitHub Actions, Terraform, and SonarQube**, I specialize in building scalable and secure CI/CD pipelines and deploying resilient infrastructure on the cloud.  
+🔐 I'm also AWS Certified (SAA-C03, DVA-C02) with hands-on experience in **Linux, monitoring (Prometheus + Grafana), and infrastructure as code** practices.
+
+---
 
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQE-5Q-evNzR2Q/article-cover_image-shrink_600_2000/0/1688467501706?e=2147483647&v=beta&t=whP7ShBPsKCwXL_BXXx0GL4NfK2W8ylWC_pAKknbRDU">
 
+- 🌱 Currently learning **Kubernetes and Ansible**
+- 💬 Ask me about **AWS, Jenkins, Terraform, GitHub Actions, Docker**
+- 📧 Email: **prakashramanukolanu1998@gmail.com**
+- 📄 [My Resume (FlowCV)](https://flowcv.com/resume/stsf6ijlmd)
+- ⚡ Fun fact: *I spend more time in the cloud than on the ground!*
 
-- 🌱 I’m currently learning **Ansible, Kubernetes**
+---
 
-- 💬 Ask me about **AWS services, Jenkins, Docker, Terraform**
+### 🔧 Technical Skills
 
-- 📫 How to reach me **prakashramanukolanu1998@gmail.com**
+- **Cloud Platforms**: AWS (EC2, RDS, S3, Lambda, API Gateway), GCP (basic)
+- **DevOps Tools**: Jenkins, GitHub Actions, SonarQube, Docker, Ansible
+- **IaC & Automation**: Terraform, Shell Scripting
+- **Monitoring**: Prometheus, Grafana
+- **Languages & Frameworks**: Python (Flask, Django),Bash
 
-- 📄 Know about my experiences [https://flowcv.com/resume/stsf6ijlmd](https://flowcv.com/resume/stsf6ijlmd)
-
-- ⚡ Fun fact **🌍 I spend more time in the cloud than on the ground!**
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
